@@ -20,7 +20,7 @@
 </svelte:head>
 
 <div class="content">
-	<h1>About this app</h1>
+	<h1>About this app stage test</h1>
 
 	<p>
 		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
@@ -29,6 +29,7 @@
 
 	<pre>npm init svelte</pre>
 
+	<p>Mathieu vient d'arriver dans l'équipe</p>
 	<p>
 		The page you're looking at is purely static HTML, with no client-side interactivity needed.
 		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
